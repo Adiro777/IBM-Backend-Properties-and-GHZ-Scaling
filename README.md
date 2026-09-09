@@ -1,1 +1,1 @@
-# BM-Backend-Properties-and-GHZ-Scaling
+# IBM-Backend-Properties-and-GHZ-Scaling
